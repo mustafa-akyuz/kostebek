@@ -6,7 +6,7 @@
 [![TensorFlow Lite](https://img.shields.io/badge/TFLite-On--Device%20AI-FF6F00?logo=tensorflow)](https://www.tensorflow.org/lite)
 [![iOS](https://img.shields.io/badge/iOS-15.0+-000000?logo=apple)](https://developer.apple.com/ios/)
 [![Android](https://img.shields.io/badge/Android-8.0+--15-3DDC84?logo=android)](https://developer.android.com)
-[![Direct APK Download](https://img.shields.io/badge/APK-Hemen%20%C4%B0ndir-brightgreen?logo=android&style=for-the-badge)](https://github.com/mustafa-akyuz/kostebek/releases/latest)
+[![Direct APK Download](https://img.shields.io/badge/APK-Hemen%20%C4%B0ndir-brightgreen?logo=android&style=for-the-badge)](https://github.com/mustafa-akyuz/kostebek/raw/main/Kostebek-v1.0.0.apk)
 
 ---
 
@@ -30,7 +30,7 @@
 
 Uygulamayı hemen Android telefonunuza yükleyip kullanmaya başlamak için:
 
-👉 **[Köstebek v1.0.0 APK İndir (Resmi GitHub Sürümü)](https://github.com/mustafa-akyuz/kostebek/releases/latest)**
+👉 **[Köstebek v1.0.0 APK İndir (Doğrudan Tek Tıkla İndir - 87 MB)](https://github.com/mustafa-akyuz/kostebek/raw/main/Kostebek-v1.0.0.apk)**
 
 *(Android 8.0 ve üzeri tüm cihazlarla, Xiaomi HyperOS, Samsung One UI ve Google Pixel ile tam uyumludur).*
 
